@@ -144,7 +144,7 @@ The main objective of this project is to demonstrate how **multiple AI agents ca
 
 ## 👩‍💻 Author
 
-**Roqayya Abdul**
+**Abdul Roqayya**
 
 Computer Science & Engineering Student
 
